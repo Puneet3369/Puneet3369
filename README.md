@@ -1,6 +1,3 @@
-
-![alt text](https://puneet3369.com/wp-content/uploads/2023/01/logodark.png)
-
 Welcome to Repository, a leading DevOps consulting and training company that helps organizations achieve their DevOps transformation goals. Our company was founded in 2024 by a group of experienced DevOps engineers who saw the need for a more streamlined and efficient approach to software development. Since then, we have become a trusted partner for companies of all sizes across various industries.
 
 ### 📫 Website:
