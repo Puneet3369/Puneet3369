@@ -43,7 +43,7 @@ Our team of certified DevOps professionals has extensive experience in using the
 | Azure DevOps | A Microsoft product that provides development tools, services, and features for DevOps processes and continuous delivery. |
 
 ### 📧 Get in Touch
-If you are interested in learning more about our services or training programs, please feel free to reach out to us at info@devopsinsiders.com. We look forward to working with you!
+If you are interested in learning more about our services or training programs, please feel free to reach out to us at info@puneet3369.com. We look forward to working with you!
     
 
 
